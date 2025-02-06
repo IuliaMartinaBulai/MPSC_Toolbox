@@ -1,20 +1,32 @@
 # MPSC_Toolbox
 MPSC: Model Plant Species Competition Toolbox 
+
 (c) Developed by Iulia Martina Bulai, Giulia Orrù
 
 In this toolbox we propose the codes needed for the reproducibility of the results obtained in the manuscript: 
+
 [1] S. Bagella, I.M. Bulai, M. Malavasi, G. Orrù, "A theoretical model of plant species competition: The case of invasive Carpobrotus sp. pl. and native Mediterranean coastal species", 2025
 
 GETTING STARTED
+
 The MATLAB files used to generate the Figures 1-18 of the manuscript [1] are
+
 -MPSC/first_case/nullclines_interaction.m -> Figure 1
+
 -MPSC/first_case/first_main.m -> Figures 2,3,4
+
 -MPSC/second_case/nullclines_alpha.m -> Figure 5 
+
 -MPSC/second_case/second_main.m -> Figures 6,7,8
+
 -MPSC/third_case/nullclines_beta -> Figure 9 
+
 -MPSC/third_case/third_main.m -> Figures 10,11,12
+
 -MPSC/fourth_case/nullclines_interaction_general.m -> Figure 13
+
 -MPSC/fourth_case/fourth_main.m -> Figures 14,15,16 
+
 -MPSC/bSTAB/fourth_case/main_parameters_carpobrotus.m -> Figures 17,18
 
 In order to obtain the plots in the above mentioned files the data was computed adapting the toolbox MATLAB bSTAB to our model. The new files with respect to bSTAB are:
