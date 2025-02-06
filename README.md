@@ -37,6 +37,7 @@ In order to obtain the plots in the above mentioned files the data was computed 
 - Also the files: compute_bs_ap_2d.m, update_props_ap_2d.m, plot_bs_parameter_study_2d.m an extension of the 1D case for the 2D case, introduced in [3], was used. 
 
 [2] M. Stender, N. Hoffmann, bSTAB: an open-source software for computing the basin stability of multi-stable dynamical systems, Nonlinear Dynamics 107 (2022) 1451-1468. doi:https://doi.org/10.1007/s11071-021-06786-5.
+
 [3] I. M. Bulai, M. Salvia, Approximation of basins of attraction for bistable dynamical system for olive disease control, Applied Numerical Mathematics 200 (2024) 138-147. doi:https://doi.org/10.1016/j.apnum.2023.05.005.
 
 License : 
